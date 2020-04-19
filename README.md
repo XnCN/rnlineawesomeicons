@@ -4,7 +4,7 @@
 
 You can easily add icons for your application using this package.You can see all the icons on [Line Awesome](https://icons8.com/line-awesome 'Line Awesome').
 
-![Dw](https://img.shields.io/npm/dm/rnlineawesomeicons) ![lis](https://img.shields.io/npm/l/rnlineawesomeicons) ![is](https://img.shields.io/github/issues/xncn/rnlineawesomeicons)
+![Dw](https://img.shields.io/npm/dm/rn-lineawesomeicons) ![lis](https://img.shields.io/npm/l/rn-lineawesomeicons) ![is](https://img.shields.io/github/issues/xncn/rn-lineawesomeicons)
 
 # İnstall
 
@@ -12,14 +12,14 @@ This package dependency [react-native-svg](https://github.com/react-native-commu
 
     npm install react-native-svg;
     npx pod-install ios;
-    npm install rnlineawesomeicons;
+    npm install rn-lineawesomeicons;
 
 # How can I use this package?
 
 ```javascript
 import React from 'react';
 import {SafeAreaView} from 'react-native';
-import RNLineAwesomeIcons from 'rnlineawesomeicons';
+import RNLineAwesomeIcons from 'rn-lineawesomeicons';
 
 const App = () => {
   return (

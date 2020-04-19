@@ -2,6 +2,7 @@
 /android
 /assets
 /ios
+/svgicons
 .buckconfig
 .eslintrc.js
 .flowconfig
