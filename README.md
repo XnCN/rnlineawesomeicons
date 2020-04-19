@@ -1,6 +1,6 @@
 # React Native Line Awesome Icons
 
-![Simple Example](https://s4.gifyu.com/images/rnlineawesome.gif)
+<img src="https://s4.gifyu.com/images/rnlineawesome.gif" width="100%">
 You can easily add icons for your application using this package.
 ![Dw](https://img.shields.io/npm/dm/bottomsearchbar) ![lis](https://img.shields.io/npm/l/bottomsearchbar) ![is](https://img.shields.io/github/issues/xncn/reactnativebottomsearchbar)
 
