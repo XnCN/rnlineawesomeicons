@@ -2,7 +2,7 @@
   "name": "rn-lineawesomeicons",
   "description": "This is a react native icon library includes Line Awesome icons",
   "main": "./src/index.js",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Aydemir Eray Han",
     "email": "erayhan41@yandex.com"
