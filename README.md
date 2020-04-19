@@ -31,7 +31,7 @@ const App = () => {
 export default App;
 ```
 
-#Component Supported Props
+# Component Supported Props
 | Prop Name | Description |
 | ------------ | ------------ |
 | icon | This is icon name property you can find icon names on Line Awesome web site|
