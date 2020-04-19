@@ -2,7 +2,8 @@
 
 ![Simple Example](https://s4.gifyu.com/images/rnhd.gif)
 
-You can easily add icons for your application using this package.
+You can easily add icons for your application using this package.You can see all the icons on [Line Awesome](https://icons8.com/line-awesome 'Line Awesome').
+
 ![Dw](https://img.shields.io/npm/dm/rnlineawesomeicons) ![lis](https://img.shields.io/npm/l/rnlineawesomeicons) ![is](https://img.shields.io/github/issues/xncn/rnlineawesomeicons)
 
 # İnstall
