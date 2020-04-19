@@ -1,6 +1,7 @@
 # React Native Line Awesome Icons
 
 ![Simple Example](https://s4.gifyu.com/images/rnhd.gif)
+
 You can easily add icons for your application using this package.
 ![Dw](https://img.shields.io/npm/dm/rnlineawesomeicons) ![lis](https://img.shields.io/npm/l/rnlineawesomeicons) ![is](https://img.shields.io/github/issues/xncn/rnlineawesomeicons)
 
