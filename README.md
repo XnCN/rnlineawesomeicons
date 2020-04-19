@@ -14,6 +14,8 @@ This package dependency [react-native-svg](https://github.com/react-native-commu
     npx pod-install ios;
     npm install rn-lineawesomeicons;
 
+Dont forget restart metro bundler
+
 # How can I use this package?
 
 ```javascript
@@ -32,13 +34,14 @@ export default App;
 ```
 
 # Component Supported Props
-| Prop Name | Description |
-| ------------ | ------------ |
-| icon | This is icon name property you can find icon names on Line Awesome web site|
-| height | Specifies the height at which the component will fill the screen. |
-| width | Specifies the width that the component will fill the screen. |
-| fill | indicates the color of the component |
-| stroke | indicates the outer frame color of the component |
+
+| Prop Name | Description                                                                 |
+| --------- | --------------------------------------------------------------------------- |
+| icon      | This is icon name property you can find icon names on Line Awesome web site |
+| height    | Specifies the height at which the component will fill the screen.           |
+| width     | Specifies the width that the component will fill the screen.                |
+| fill      | indicates the color of the component                                        |
+| stroke    | indicates the outer frame color of the component                            |
 
 Thanks icons8 team
 https://icons8.com/line-awesome
